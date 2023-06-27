@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/Mandelbrot/META"
+  "_build/install/default/lib/Mandelbrot/dune-package"
+  "_build/install/default/lib/Mandelbrot/opam"
+]
+bin: [
+  "_build/install/default/bin/Mandelbrot"
+]
